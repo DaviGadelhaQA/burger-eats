@@ -21,27 +21,13 @@ In addition to the automation scripts, a **manual test case sheet** was created 
 
 
 ## How to Run
-### Install dependencies
-npm i
-
-### Open Cypress UI
-npx cypress open
-
-### Run tests headless
-npx cypress run
-
-## ⚙️ How to Run the Tests
-
 Follow the steps below to install dependencies and execute the test suite:
 
-### 1. Install dependencies
+### Install dependencies
 Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.  
 Then, in the root folder of the project, run:
 
-```bash
-npm install
+npm i
 
-To run tests interactively in the Cypress Test Runner:
-
-```bash
+### Open Cypress UI
 npx cypress open
